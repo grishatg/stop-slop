@@ -12,7 +12,7 @@ Eliminate predictable AI writing patterns from prose.
 
 ## Core Rules
 
-1. **Cut filler phrases.** Remove throat-clearing openers, emphasis crutches, and all adverbs. See [references/phrases.md](references/phrases.md).
+1. **Cut filler phrases.** Remove throat-clearing openers and emphasis crutches. Cut adverbs unless they change the meaning. See [references/phrases.md](references/phrases.md).
 
 2. **Break formulaic structures.** Avoid binary contrasts, negative listings, dramatic fragmentation, rhetorical setups, false agency. See [references/structures.md](references/structures.md).
 
@@ -22,17 +22,19 @@ Eliminate predictable AI writing patterns from prose.
 
 5. **Put the reader in the room.** No narrator-from-a-distance voice. "You" beats "People." Specifics beat abstractions.
 
-6. **Vary rhythm.** Mix sentence lengths. Two items beat three. End paragraphs differently. No em dashes.
+6. **Vary rhythm.** Mix sentence lengths. Two items beat three. End paragraphs differently. Em-dashes are allowed; don't use them in place of every comma.
 
 7. **Trust readers.** State facts directly. Skip softening, justification, hand-holding.
 
 8. **Cut quotables.** If it sounds like a pull-quote, rewrite it.
 
+9. **Write in British English** (-ise, -our, £, 18 November 2026 date format).
+
 ## Quick Checks
 
 Before delivering prose:
 
-- Any adverbs? Kill them.
+- Any adverbs? Cut adverbs unless they change the meaning.
 - Any passive voice? Find the actor, make them the subject.
 - Inanimate thing doing a human verb ("the decision emerges")? Name the person.
 - Sentence starts with a Wh- word? Restructure it.
@@ -40,7 +42,8 @@ Before delivering prose:
 - Any "not X, it's Y" contrasts? State Y directly.
 - Three consecutive sentences match length? Break one.
 - Paragraph ends with punchy one-liner? Vary it.
-- Em-dash anywhere? Remove it.
+- Em-dashes are allowed; don't use them in place of every comma.
+- American spelling or date format? Switch to British English (-ise, -our, £, 18 November 2026).
 - Vague declarative ("The implications are significant")? Name the specific implication.
 - Narrator-from-a-distance ("Nobody designed this")? Put the reader in the scene.
 - Meta-joiners ("The rest of this essay...")? Delete. Let the essay move.
